@@ -18,7 +18,7 @@ An interactive **Power BI HR Analytics Dashboard** that provides insights into e
 
 ## 📷 Dashboard Preview
 
-![Dashboard](dashboard.png)
+![Dashboard]((image/Hr_Analatical_Dashboard.png.png))
 
 ## 📌 Key Insights
 - Analyze employee attrition trends.
